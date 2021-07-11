@@ -1,0 +1,79 @@
+#    |\__/,|   (`\		        #
+#  _.|o o  |_   ) ) Kitty config#
+#-(((---(((-------- 		    #
+
+
+#font
+font_family      Ubuntu Mono Regular
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+font_size 12.0
+box_drawing_scale 0.001, 1, 1.5, 2
+
+#cursor
+cursor #eeeeee
+cursor_text_color #282828
+cursor_shape underline
+cursor_beam_thickness 1.5
+cursor_underline_thickness 2.0
+cursor_blink_interval 0
+cursor_stop_blinking_after 15.0
+cursor_shape underline
+
+#window
+window_padding_width 8
+
+#scrollback
+scrollback_lines 2000
+
+#performance
+sync_to_monitor yes
+
+#: colors
+
+foreground #eeeeee
+background #282828
+
+color0 #282828
+color8 #484848
+
+#: black
+
+color1 #f43753
+color9 #f43753
+
+#: red
+
+color2  #c9d05c
+color10 #c9d05c
+
+#: green
+
+color3  #ffc24b
+color11 #ffc24b
+
+#: yellow
+
+color4  #b3deef
+color12 #b3deef
+
+#: blue
+
+color5  #d3b987
+color13 #d3b987
+
+#: magenta
+
+color6  #73cef4
+color14 #73cef4
+
+#: cyan
+
+color7  #eeeeee
+color15 #ffffff
+
+#: white
+
+#opacity
+background_opacity 1.00
