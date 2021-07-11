@@ -7,9 +7,9 @@ I am going to try to make these instructions as simple as posible but its 5am so
 
 Step one: git clone https://github.com/FloralnFading/zerotasteguy/
 
-Step two: move the folders from ".config" to your .config folder. If you dont see it make sure you have "Show hidden files: on"
+Step two: move the folders from "config" to your .config folder. If you dont see it make sure you have "Show hidden files: on"
 
-Step three: move the .xmonad folder into your /home/user/ directory
+Step three: make a .xmonad folder in your user directory and move "xmonad.hs" into it
 
 Step four: logout and then log in to xmonad
 
